@@ -1,6 +1,6 @@
 {
   "name": "wayne-image-cdn",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "时过境迁Wayne储存的一些需要加速的图片",
   "main": "index.js",
   "scripts": {
